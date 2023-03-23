@@ -6,8 +6,10 @@
 	border-style:none none none solid;
 	border-width: 5px;
 	border-color: green;
+	padding:10px;
+}
+.container h1{
 	color:white;
 	font-size:20px;
 	text-decoration:underline;
-	padding:10px;
 }
