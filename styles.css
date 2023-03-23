@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-.container{
+div{
 	width : 200px;
 	background-color:purple;
 	border-style:none none none solid;
@@ -8,7 +8,7 @@
 	border-color: green;
 	padding:10px;
 }
-.container h1{
+h1{
 	color:white;
 	font-size:20px;
 	text-decoration:underline;
